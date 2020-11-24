@@ -1,0 +1,29 @@
+
+.Brand{
+    width: 115px;
+}
+.Navbar{
+    display:flex;
+    align-items: center;
+    padding-top:9px;
+    margin: auto;
+    padding-left:25px;
+    padding-right:25px;
+    background:linear-gradient(#fff,#ffd6d6);
+    
+}
+.Logo{
+    flex:1;
+    text-align:left;
+}
+.Menu .List {
+    display: inline-block;
+    list-style: none;
+}
+.Menu .List li{
+    display: inline-block;
+    margin-right:25px;
+    font-size: 21px;
+    font-weight: 500;
+}
+

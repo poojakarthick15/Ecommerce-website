@@ -1,0 +1,11 @@
+.Categories{
+    margin:70px 0;
+}
+.Designs{
+    display:flex;
+    justify-content:space-around;
+    
+}
+.Designs .Col-2 img{
+   width:100%;
+}

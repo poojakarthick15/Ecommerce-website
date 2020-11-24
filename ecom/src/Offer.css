@@ -1,0 +1,33 @@
+.Offers{
+    background:radial-gradient(#fff,#ffd6d6);
+    margin-top:80px;
+    padding:30px 0;
+    display:flex;
+    justify-content: center;
+    
+}
+.col-5 .Offerimg{
+    padding: 85px;
+    margin-left: 34px;
+}
+small{
+    color: #555;
+}
+.col-5 p{
+    text-align:center;
+    font-size:45px;
+    color:rgb(230, 30, 130);
+    font-weight: 500;
+}
+.col-5 h1{
+    color:rgb(23, 177, 216);
+    font-size: 37px;
+}
+.col-5 small{
+    columns: #555555;
+    font-size: 21px;
+    padding: 67px;
+}
+.Offers button{
+    background-color: rgb(199, 127, 139);
+}

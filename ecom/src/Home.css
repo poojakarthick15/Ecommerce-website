@@ -1,0 +1,44 @@
+.Row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 23px;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.Col-1{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.Col-1 img{
+    max-width: 100%;
+    padding:50px ;
+    
+}
+.Col-1 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 45px ;
+}
+.Col-1 p{
+    font-size: 25px;
+    line-height: 45px;
+    margin:45px;
+    font-weight: 300;
+}
+button{
+    display: inline-block;
+    background:orange;
+    color:black;
+    margin: 30px;
+    
+    border-radius: 20px;
+    padding: 8px 23px;
+    font-size: 25px;
+    transition: background 0.5s;
+}
+button:hover{
+    background:#563434;
+}
